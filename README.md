@@ -41,5 +41,4 @@ I love to talk on trending ⚡ technology ⚡, I have some attraction on 🔭 Do
 - 💬 Ask me about anything [here](https://github.com/justinSmileDate/justinSmileDate/issues)
 
 ![](https://github-readme-stats.vercel.app/api?username=justinSmileDate&theme=dark)
-[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
-
+![Metrics](https://metrics.lecoq.io/justinSmileDatetemplate=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
