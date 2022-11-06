@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 DolphonDB 🔭 and I am very  😄 focused 😄 when I code.
+I love to talk on trending ⚡ technology ⚡, I have some attraction on 🔭 DolphonDB 🔭 and I am very  😄 focused 😄 when I code.
 
 - 🏢 I'm currently Studying at **ZJU**
 - 🚀 I use daily:
@@ -41,4 +41,5 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Do
 - 💬 Ask me about anything [here](https://github.com/justinSmileDate/justinSmileDate/issues)
 
 ![](https://github-readme-stats.vercel.app/api?username=justinSmileDate&theme=dark)
+[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
 
