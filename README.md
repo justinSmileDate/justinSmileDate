@@ -38,7 +38,7 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Do
   ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 - ⚡️ Fun fact: I like to play the game of King of Glory, I like taekwondo, running and swimming.
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 💬 Ask me about anything [here](https://github.com/justinSmileDate/justinSmileDate/issues)
 
 ![](https://github-readme-stats.vercel.app/api?username=justinSmileDate&theme=dark)
 
