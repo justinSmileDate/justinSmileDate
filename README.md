@@ -40,5 +40,5 @@ I love to talk on trending ⚡ technology ⚡, I have some attraction on 🔭 Do
 - ⚡️ Fun fact: I like to play the game of King of Glory, I like taekwondo, running and swimming.
 - 💬 Ask me about anything [here](https://github.com/justinSmileDate/justinSmileDate/issues)
 
-![](https://github-readme-stats.vercel.app/api?username=justinSmileDate&theme=dark)
-![Metrics](https://metrics.lecoq.io/justinSmileDatetemplate=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+![](https://github-readme-stats.vercel.app/api?username=justinSmileDate)
+
