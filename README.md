@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-I love to talk on trending ⚡ technology ⚡, I have some attraction on 🔭 DolphonDB 🔭 and I am very  😄 focused 😄 when I code.
+I love to talk on trending ⚡ technology ⚡,  I am very  😄 focused 😄 when I code.
 
 - 🏢 I'm currently Studying at **ZJU**
 - 🚀 I use daily:
-  ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
@@ -32,8 +31,6 @@ I love to talk on trending ⚡ technology ⚡, I have some attraction on 🔭 Do
 - ⚙️ I also use: 
   ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
   ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php) 
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
 - 🌱 I plan to study:
   ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
