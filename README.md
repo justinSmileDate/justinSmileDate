@@ -16,26 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-I love to talk on trending ⚡ technology ⚡,  I am very  😄 focused 😄 when I code.
+Nice to meet you! 😄
 
 - 🏢 I'm currently Studying at **ZJU**
-- 🚀 I use daily:
-  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
-  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-  ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-- 💻 I usually use the links below to find information:
-  ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
-- ⚙️ I also use: 
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
-  ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php) 
-- 🌱 I plan to study:
-  ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
-- ⚡️ Fun fact: I like to play the game of King of Glory, I like taekwondo, running and swimming.
-- 💬 Ask me about anything [here](https://github.com/justinSmileDate/justinSmileDate/issues)
+- 🚀 “I have not failed. I've just found 10,000 ways that won't work.” 
 
 ![](https://github-readme-stats.vercel.app/api?username=justinSmileDate)
 
